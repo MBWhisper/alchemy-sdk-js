@@ -67,14 +67,14 @@
     "@ethersproject/units": "^5.7.0",
     "@ethersproject/wallet": "^5.7.0",
     "@ethersproject/web": "^5.7.0",
-    "axios": "^1.6.5",
+    "axios": "^1.8.3",
     "sturdy-websocket": "^0.2.1",
     "websocket": "^1.0.34"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-node-resolve": "^13.3.0",
-    "@size-limit/preset-big-lib": "^7.0.8",
+    "@size-limit/preset-big-lib": "^11.0.1",
     "@trivago/prettier-plugin-sort-imports": "^3.3.1",
     "@types/jest": "^27.4.1",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
